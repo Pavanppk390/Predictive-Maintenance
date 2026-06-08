@@ -45,6 +45,17 @@ Target:
 | Random Forest | 0.79 | 0.71 | 0.74 | 0.96 |
 | XGBoost | 0.42 | 0.84 | 0.56 | 0.97 |
 
+
+
+## Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_imp.png)
+
+
 ## Model Selection
 
 Random Forest was selected as the final model.
