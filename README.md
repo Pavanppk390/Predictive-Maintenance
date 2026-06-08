@@ -39,11 +39,11 @@ Target:
 
 ## Results
 
-| Model | Precision | Recall | F1 |
-|--------|--------:|--------:|--------:|
-| Logistic Regression | 0.14 | 0.82 | 0.25 |
-| Random Forest | 0.79 | 0.71 | 0.74 |
-| XGBoost | 0.42 | 0.84 | 0.56 |
+| Model | Precision | Recall | F1 | ROC-AUC |
+|---------|---------:|---------:|---------:|---------:|
+| Logistic Regression | 0.14 | 0.82 | 0.25 | 0.91 |
+| Random Forest | 0.79 | 0.71 | 0.74 | 0.96 |
+| XGBoost | 0.42 | 0.84 | 0.56 | 0.97 |
 
 ## Model Selection
 
