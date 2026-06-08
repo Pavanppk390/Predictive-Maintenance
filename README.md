@@ -49,11 +49,11 @@ Target:
 
 ## Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](images/correlation_heatmap.jpg)
 
 ## Feature Importance
 
-![Feature Importance](images/feature_imp.png)
+![Feature Importance](images/feature_imp.jpg)
 
 
 ## Model Selection
